@@ -1,0 +1,28 @@
+# Jonathan (jochris) - Developer Portfolio
+
+Personal portfolio of Jonathan (jochris), featuring backend services, tools, and libraries built in Go, Java, and Rust.
+
+## Profile Summary
+* Name: Jonathan (jochris)
+* Role: Backend Developer
+* Location: Jakarta, Indonesia
+* Focus: Go, Java, Rust, TypeScript, Bash, Docker, Linux, PostgreSQL, Redis
+* GitHub: https://github.com/jochris
+* Website: https://lunee.lol
+* Agency: https://astralune.cv
+* Contact: jonathandev780@gmail.com
+
+## Public Projects
+* Gorvix: Game server management panel in Go running Docker instances with a live WebSocket console. Repo: https://github.com/jochris/Gorvix
+* JaWa: Java library for WhatsApp Web Multi-Device protocol using Protobuf, plus modular client bot (JaWa-Bot). Repo: https://github.com/jochris/JaWa
+* Gowa: Modular WhatsApp automation bot in Go with plugin architecture. Repo: https://github.com/jochris/Gowa
+* LunePaste: Web tools platform for code snippets, cloud storage, shortlinks, and utilities. Live: https://lunee.lol
+* Bannix: Linux IPS daemon written in Rust and C with netlink sockets. Fixed log parsing order to prevent IP ban manipulation. Repo: https://github.com/Galang-Purnama/bannix
+
+## Web Services
+* Astralune (https://astralune.cv): Digital agency providing website development, web applications, and conversational AI chatbots.
+* LuneTools (https://lunee.lol): All-in-one developer suite for code snippets, cloud storage, fast shortlinks, and media tools.
+
+## Technical Skills
+* Languages: Go, Java, Rust, TypeScript, Bash
+* Tools & Infra: Docker, Linux, PostgreSQL, Redis, Git, Postman, Netlink sockets, WebSockets
